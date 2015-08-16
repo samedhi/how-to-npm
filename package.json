@@ -17,5 +17,8 @@
   },
   "bugs": {
     "url": "https://github.com/samedhi/how-to-npm/issues"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
   }
 }
