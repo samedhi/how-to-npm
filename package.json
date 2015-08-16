@@ -1,0 +1,21 @@
+{
+  "name": "how-to-npm",
+  "version": "0.0.1",
+  "description": "\"Just going through the npm tutorial, nothing to see here folks.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeschool.io"
+  ],
+  "author": "Stephen Cagle",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samedhi/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samedhi/how-to-npm/issues"
+  }
+}
